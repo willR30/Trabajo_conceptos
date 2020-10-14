@@ -9,13 +9,10 @@ package conceptos_ejemplo;
  *
  * @author DELL
  */
-public class Conceptos_ejemplo {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class Metodos {
+    
+    //esta clase tendrá todos los metodos con los que se trabaja
+    //creamos el constructor de la clase
+    
     
 }
